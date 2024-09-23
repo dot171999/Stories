@@ -2,28 +2,28 @@
     {
         "id": 1,
         "name": "Adventure in the Mountains",
-        "image": "https://example.com/images/mountain-cover.jpg",
+        "image": "SamplePhoto",
         "contents": [
             {
-                "type": "video",
-                "id": 101,
-                "url": "https://example.com/videos/mountain-adventure.mp4"
+                "type": "image",
+                "id": 1,
+                "url": "SamplePhoto4"
             }
         ]
     },
     {
         "id": 2,
         "name": "Beach Vacation",
-        "image": "https://example.com/images/beach-cover.jpg",
+        "image": "SamplePhoto1",
         "contents": [
             {
                 "type": "image",
-                "id": 201,
-                "url": "https://example.com/images/beach-sunset.jpg"
+                "id": 1,
+                "url": "SamplePhoto5"
             },
             {
                 "type": "video",
-                "id": 202,
+                "id": 2,
                 "url": "https://example.com/videos/beach-vacation.mp4"
             }
         ]
@@ -31,50 +31,50 @@
     {
         "id": 3,
         "name": "City Nightlife",
-        "image": "https://example.com/images/city-nightlife-cover.jpg",
+        "image": "SamplePhoto2",
         "contents": [
             {
                 "type": "video",
-                "id": 301,
+                "id": 1,
                 "url": "https://example.com/videos/city-nightlife.mp4"
             },
             {
                 "type": "image",
-                "id": 302,
-                "url": "https://example.com/images/city-skyline.jpg"
+                "id": 2,
+                "url": "SamplePhoto1"
             },
             {
                 "type": "image",
-                "id": 303,
-                "url": "https://example.com/images/city-lights.jpg"
+                "id": 3,
+                "url": "SamplePhoto"
             }
         ]
     },
     {
         "id": 4,
         "name": "Desert Exploration",
-        "image": "https://example.com/images/desert-cover.jpg",
+        "image": "SamplePhoto3",
         "contents": [
             {
                 "type": "image",
-                "id": 401,
-                "url": "https://example.com/images/desert-dunes.jpg"
+                "id": 1,
+                "url": "SamplePhoto9"
             }
         ]
     },
     {
         "id": 5,
         "name": "Snowy Adventure",
-        "image": "https://example.com/images/snowy-adventure-cover.jpg",
+        "image": "SamplePhoto4",
         "contents": [
             {
                 "type": "image",
-                "id": 501,
-                "url": "https://example.com/images/snowy-mountain.jpg"
+                "id": 1,
+                "url": "SamplePhoto2"
             },
             {
                 "type": "video",
-                "id": 502,
+                "id": 2,
                 "url": "https://example.com/videos/snowy-adventure.mp4"
             }
         ]
@@ -82,28 +82,28 @@
     {
         "id": 6,
         "name": "Forest Hike",
-        "image": "https://example.com/images/forest-hike-cover.jpg",
+        "image": "SamplePhoto5",
         "contents": [
             {
                 "type": "image",
-                "id": 601,
-                "url": "https://example.com/images/forest-trail.jpg"
+                "id": 1,
+                "url": "SamplePhoto7"
             },
             {
                 "type": "image",
-                "id": 602,
-                "url": "https://example.com/images/forest-lake.jpg"
+                "id": 2,
+                "url": "SamplePhoto4"
             }
         ]
     },
     {
         "id": 7,
         "name": "Island Getaway",
-        "image": "https://example.com/images/island-getaway-cover.jpg",
+        "image": "SamplePhoto6",
         "contents": [
             {
                 "type": "video",
-                "id": 701,
+                "id": 1,
                 "url": "https://example.com/videos/island-getaway.mp4"
             }
         ]
@@ -111,46 +111,46 @@
     {
         "id": 8,
         "name": "Urban Exploration",
-        "image": "https://example.com/images/urban-exploration-cover.jpg",
+        "image": "SamplePhoto7",
         "contents": [
             {
                 "type": "image",
-                "id": 801,
-                "url": "https://example.com/images/urban-building.jpg"
+                "id": 1,
+                "url": "SamplePhoto"
             },
             {
                 "type": "image",
-                "id": 802,
-                "url": "https://example.com/images/urban-street.jpg"
+                "id": 2,
+                "url": "SamplePhoto3"
             }
         ]
     },
     {
         "id": 9,
         "name": "Tropical Paradise",
-        "image": "https://example.com/images/tropical-paradise-cover.jpg",
+        "image": "SamplePhoto8",
         "contents": [
             {
                 "type": "video",
-                "id": 901,
+                "id": 1,
                 "url": "https://example.com/videos/tropical-paradise.mp4"
             },
             {
                 "type": "image",
-                "id": 902,
-                "url": "https://example.com/images/tropical-beach.jpg"
+                "id": 2,
+                "url": "SamplePhoto1"
             }
         ]
     },
     {
         "id": 10,
         "name": "Canyon Adventure",
-        "image": "https://example.com/images/canyon-adventure-cover.jpg",
+        "image": "SamplePhoto9",
         "contents": [
             {
                 "type": "image",
-                "id": 1001,
-                "url": "https://example.com/images/canyon.jpg"
+                "id": 1,
+                "url": "SamplePhoto6"
             }
         ]
     }

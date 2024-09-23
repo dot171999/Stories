@@ -32,14 +32,13 @@ struct StoriesView: View {
                             .foregroundStyle(vm.allContentSeen(for: story) ? .linearGradient(colors: [.gray], startPoint: .top, endPoint: .bottom) : .linearGradient(colors: [.blue, .purple, .blue], startPoint: .top, endPoint: .bottom))
                             
                         NavigationLink(value: story) {
-                            Image("")
+                            Image(story.image)
                                 .frame(width: 80, height: 140)
                                 .background(.black)
                                 .clipShape(.rect(cornerRadius: 15))
                         }
                     }
                     .padding(.leading)
-                    
                 }
             }
             .padding(.trailing)

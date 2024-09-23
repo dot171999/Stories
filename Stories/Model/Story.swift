@@ -21,8 +21,7 @@ struct Content: Codable, Hashable {
     let type: ContentType
     let id: Int
     let url: String
-    
-    
+
     var seen: Bool 
     
     enum CodingKeys: String, CodingKey {

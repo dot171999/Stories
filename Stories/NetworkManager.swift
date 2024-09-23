@@ -23,7 +23,7 @@ class NetworkManager {
     // Making the function async to simulate API call.
     func getStories() async -> (Stories?, String?) {
         
-        try? await Task.sleep(nanoseconds: 1000000000)
+        try? await Task.sleep(nanoseconds: 100000)
         
         guard let url = Bundle.main.url(forResource: "Sample", withExtension: "json") else {
             return (nil, ErrorDescriptionFor.jsonfileNotFound.rawValue)
